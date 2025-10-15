@@ -4,6 +4,8 @@
 ```bash
 mvn spring-boot:run
 # mở http://localhost:8080
+# mvn clean install
+#mvn spring-boot:run
 ```
 
 ## API chính
